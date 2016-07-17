@@ -1,4 +1,7 @@
-﻿using System;
+// Written by Dr. Zhi Guo
+// version 1.00 alpha released in 2016.7
+// Several advanced functions are still not implemented
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
