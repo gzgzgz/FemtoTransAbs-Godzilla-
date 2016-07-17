@@ -11,6 +11,6 @@ Some notes:<br> </br>
 5) other hardware required: <br>  
    a) A optical chopper with sync signal output<br>
    b) A TTL frequency doubler that doubles the input TTL signal frequency, and will need to function in 10-2000 Hz range. (home-built diff op amp circuit will do)<br>
-   c) ultrafast optics to do the transient absorption measurements (mechanical delay stage etc.)<br>
+   c) ultrafast optics to do the transient absorption measurements <br>
 
 For any other questions, please email gzgzgz{\replace_with_at/}gmail.com
