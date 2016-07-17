@@ -1,0 +1,60 @@
+C:\Users\Guo\Documents\Visual Studio 2010\Projects\Godzilla\Godzilla\obj\x86\Release\Godzilla.adjust_whitelight.resources
+C:\Users\Guo\Documents\Visual Studio 2010\Projects\Godzilla\Godzilla\obj\x86\Release\Godzilla.Form1.resources
+C:\Users\Guo\Documents\Visual Studio 2010\Projects\Godzilla\Godzilla\obj\x86\Release\Godzilla.Properties.Resources.resources
+C:\Users\Guo\Documents\Visual Studio 2010\Projects\Godzilla\Godzilla\obj\x86\Release\Godzilla.splash.resources
+C:\Users\Guo\Documents\Visual Studio 2010\Projects\Godzilla\Godzilla\obj\x86\Release\Godzilla.csproj.GenerateResource.Cache
+C:\Users\Guo\Documents\Visual Studio 2010\Projects\Godzilla\Godzilla\bin\Release\Godzilla.exe.config
+C:\Users\zguo.lab007-5\Desktop\Godzilla\Godzilla\bin\Release\Godzilla.exe.config
+C:\Users\zguo.lab007-5\Desktop\Godzilla\Godzilla\bin\Release\Godzilla.exe
+C:\Users\zguo.lab007-5\Desktop\Godzilla\Godzilla\bin\Release\Godzilla.pdb
+C:\Users\zguo.lab007-5\Desktop\Godzilla\Godzilla\bin\Release\CyUSB.dll
+C:\Users\zguo.lab007-5\Desktop\Godzilla\Godzilla\bin\Release\Diagnostics.Logging.Applet.dll
+C:\Users\zguo.lab007-5\Desktop\Godzilla\Godzilla\bin\Release\Newport.SMC100.CommandInterface.dll
+C:\Users\zguo.lab007-5\Desktop\Godzilla\Godzilla\bin\Release\TeeChart.dll
+C:\Users\zguo.lab007-5\Desktop\Godzilla\Godzilla\bin\Release\VCPWrap.dll
+C:\Users\zguo.lab007-5\Desktop\Godzilla\Godzilla\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\zguo.lab007-5\Desktop\Godzilla\Godzilla\obj\x86\Release\Godzilla.adjust_whitelight.resources
+C:\Users\zguo.lab007-5\Desktop\Godzilla\Godzilla\obj\x86\Release\Godzilla.Form1.resources
+C:\Users\zguo.lab007-5\Desktop\Godzilla\Godzilla\obj\x86\Release\Godzilla.Monitor_sample_abs.resources
+C:\Users\zguo.lab007-5\Desktop\Godzilla\Godzilla\obj\x86\Release\Godzilla.Properties.Resources.resources
+C:\Users\zguo.lab007-5\Desktop\Godzilla\Godzilla\obj\x86\Release\Godzilla.splash.resources
+C:\Users\zguo.lab007-5\Desktop\Godzilla\Godzilla\obj\x86\Release\Godzilla.csproj.GenerateResource.Cache
+C:\Users\zguo.lab007-5\Desktop\Godzilla\Godzilla\obj\x86\Release\Godzilla.exe
+C:\Users\zguo.lab007-5\Desktop\Godzilla\Godzilla\obj\x86\Release\Godzilla.pdb
+C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Godzilla\bin\Release\Godzilla.exe.config
+C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Godzilla\bin\Release\Godzilla.exe
+C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Godzilla\bin\Release\Godzilla.pdb
+C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Godzilla\bin\Release\CyUSB.dll
+C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Godzilla\bin\Release\Diagnostics.Logging.Applet.dll
+C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Godzilla\bin\Release\Newport.SMC100.CommandInterface.dll
+C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Godzilla\bin\Release\TeeChart.dll
+C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Godzilla\bin\Release\VCPWrap.dll
+C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Godzilla\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Godzilla\obj\x86\Release\Godzilla.adjust_whitelight.resources
+C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Godzilla\obj\x86\Release\Godzilla.Form1.resources
+C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Godzilla\obj\x86\Release\Godzilla.Monitor_sample_abs.resources
+C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Godzilla\obj\x86\Release\Godzilla.Properties.Resources.resources
+C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Godzilla\obj\x86\Release\Godzilla.splash.resources
+C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Godzilla\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Godzilla\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Godzilla\obj\x86\Release\Godzilla.exe
+C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Godzilla\obj\x86\Release\Godzilla.pdb
+C:\Users\Guo\Desktop\Godzilla - Copy\Godzilla\bin\Release\Godzilla.exe.config
+C:\Users\Guo\Desktop\Godzilla - Copy\Godzilla\bin\Release\Godzilla.exe
+C:\Users\Guo\Desktop\Godzilla - Copy\Godzilla\bin\Release\Godzilla.pdb
+C:\Users\Guo\Desktop\Godzilla - Copy\Godzilla\bin\Release\CyUSB.dll
+C:\Users\Guo\Desktop\Godzilla - Copy\Godzilla\bin\Release\Diagnostics.Logging.Applet.dll
+C:\Users\Guo\Desktop\Godzilla - Copy\Godzilla\bin\Release\NationalInstruments.Common.dll
+C:\Users\Guo\Desktop\Godzilla - Copy\Godzilla\bin\Release\NationalInstruments.DAQmx.dll
+C:\Users\Guo\Desktop\Godzilla - Copy\Godzilla\bin\Release\Newport.SMC100.CommandInterface.dll
+C:\Users\Guo\Desktop\Godzilla - Copy\Godzilla\bin\Release\TeeChart.dll
+C:\Users\Guo\Desktop\Godzilla - Copy\Godzilla\bin\Release\VCPWrap.dll
+C:\Users\Guo\Desktop\Godzilla - Copy\Godzilla\obj\x86\Release\Godzilla.csprojResolveAssemblyReference.cache
+C:\Users\Guo\Desktop\Godzilla - Copy\Godzilla\obj\x86\Release\Godzilla.adjust_whitelight.resources
+C:\Users\Guo\Desktop\Godzilla - Copy\Godzilla\obj\x86\Release\Godzilla.Form1.resources
+C:\Users\Guo\Desktop\Godzilla - Copy\Godzilla\obj\x86\Release\Godzilla.Monitor_sample_abs.resources
+C:\Users\Guo\Desktop\Godzilla - Copy\Godzilla\obj\x86\Release\Godzilla.Properties.Resources.resources
+C:\Users\Guo\Desktop\Godzilla - Copy\Godzilla\obj\x86\Release\Godzilla.splash.resources
+C:\Users\Guo\Desktop\Godzilla - Copy\Godzilla\obj\x86\Release\Godzilla.csproj.GenerateResource.Cache
+C:\Users\Guo\Desktop\Godzilla - Copy\Godzilla\obj\x86\Release\Godzilla.exe
+C:\Users\Guo\Desktop\Godzilla - Copy\Godzilla\obj\x86\Release\Godzilla.pdb

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Godzilla">
+</Property><Property Name="Solution File" Value="C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Godzilla.sln">
+</Property><Property Name="User Options File" Value="C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Godzilla.suo">
+</Property><Property Name="Date" Value="Monday, February 08, 2016">
+</Property><Property Name="Time" Value="16:01 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Godzilla.sln" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Godzilla.suo" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla.suo">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\Godzilla.csproj" Description="Project file successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\Godzilla.csproj">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\Godzilla.csproj.user" Description="Project user file successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\Godzilla.csproj.user">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\adjust_whitelight.cs" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\adjust_whitelight.cs">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\adjust_whitelight.Designer.cs" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\adjust_whitelight.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\Form1.cs" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\Form1.Designer.cs" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\IniFile.cs" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\IniFile.cs">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\Monitor_sample_abs.cs" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\Monitor_sample_abs.cs">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\Monitor_sample_abs.Designer.cs" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\Monitor_sample_abs.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\Program.cs" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\Program.cs">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\ReadEEPROM.cs" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\ReadEEPROM.cs">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\splash.cs" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\splash.cs">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\splash.Designer.cs" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\splash.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\app.config" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\app.config">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\Properties\Settings.settings" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\Resources\4740875-3006842866-godzi.jpg" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\Resources\4740875-3006842866-godzi.jpg">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\4740875_3006842866_godzi_rFF_icon.ico" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\4740875_3006842866_godzi_rFF_icon.ico">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\TeeChart.dll" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\TeeChart.dll">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\adjust_whitelight.resx" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\adjust_whitelight.resx">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\Form1.resx" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\Monitor_sample_abs.resx" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\Monitor_sample_abs.resx">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\Properties\Resources.resx" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\splash.resx" Description="File successfully backed up as C:\Users\zguo.lab007-5\Desktop\Godzilla - Copy\Backup\Godzilla\splash.resx">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\Godzilla.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Godzilla" Source="Godzilla\Godzilla.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Godzilla.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Godzilla.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Godzilla" Source="Godzilla\app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="Godzilla" Source="Godzilla\app.config" Description="Converted">
+</Event></UpgradeLog>
