@@ -1,5 +1,5 @@
 # FemtoTransAbs (Godzilla)
-<img src="spec.jpg" alt="Smiley face" height="42" width="42"><br> </br>
+<img align="middle" src="spec.jpg" alt="Smiley face" height="400" width="500"><br> </br>
 A real time transient absorption CCD spectrometer instrument control/data acquisition software written in C#
 You may use it under GPL 3.0 protocal
 <br> </br>
