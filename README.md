@@ -1,6 +1,6 @@
 # FemtoTransAbs (Godzilla)
 <img align="middle" src="spec.jpg" alt="Smiley face" height="400" width="500"><br> </br>
-A real time transient absorption CCD spectrometer instrument control/data acquisition software written in C#
+A real time transient absorption CCD spectrometer instrument control/data acquisition software written in C#<br></br>
 You may use it under GPL 3.0 protocal
 <br> </br>
 Some notes:<br> </br>
@@ -10,7 +10,7 @@ Some notes:<br> </br>
 4) Make sure your laser system is a megahertz reptition rate (or at least tens of kilohertz reptition rate) system in order to obtain good signal-to-noise.<br> </br>
 5) other hardware required: <br>  
    a) A optical chopper with sync signal output<br>
-   b) A TTL frequency doubler that doubles the input TTL signal frequency, and will need to functions in 10-2000 Hz range. (home-built diff op amp circuit will do)<br>
+   b) A TTL frequency doubler that doubles the input TTL signal frequency, and will need to function in 10-2000 Hz range. (home-built diff op amp circuit will do)<br>
    c) ultrafast optics to do the transient absorption measurements (mechanical delay stage etc.)<br>
 
 For any other questions, please email gzgzgz{\replace_with_at/}gmail.com
