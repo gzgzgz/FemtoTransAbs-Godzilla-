@@ -14,6 +14,6 @@ Some notes:<br> </br>
    c) ultrafast optics to do the transient absorption measurements <br>
 
 Other features: <br> </br>
- The software save csv files for each scan and their average, so that the data format is fully compatible with Surface Xplore (Ultrafast System). <br> </br>
+ The software save csv files for each scan and their average, so that the data format is fully compatible with Surface Xplore suite (Ultrafast System Inc.). <br> </br>
  
 For any other questions, please email gzgzgz{\replace_with_at/}gmail.com
