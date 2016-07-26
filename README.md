@@ -13,4 +13,7 @@ Some notes:<br> </br>
    b) A TTL frequency doubler that doubles the input TTL signal frequency, and will need to function in 10-2000 Hz range. (home-built diff op amp circuit will do)<br>
    c) ultrafast optics to do the transient absorption measurements <br>
 
+Other features: <br> </br>
+ The software save csv files for each scan and their average, so that the data format is fully compatible with Surface Xplore (Ultrafast System). <br> </br>
+ 
 For any other questions, please email gzgzgz{\replace_with_at/}gmail.com
