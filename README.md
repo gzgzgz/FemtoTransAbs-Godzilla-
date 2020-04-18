@@ -1,4 +1,5 @@
 # FemtoTransAbs (Godzilla)
+**This project was crafted in one week (including hardware tuning...) and hasn't been active since then. Please use it at your own risk**
 <img align="middle" src="spec.jpg" alt="Smiley face" height="400" width="500"><br> </br>
 A real time transient absorption CCD spectrometer instrument control/data acquisition software written in C#<br></br>
 Some notes:<br> </br>
