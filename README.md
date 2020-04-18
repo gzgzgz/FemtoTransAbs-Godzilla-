@@ -1,7 +1,8 @@
 # FemtoTransAbs (Godzilla)
 <img align="middle" src="spec.jpg" alt="Smiley face" height="400" width="500"><br> </br>
 A real time transient absorption CCD spectrometer instrument control/data acquisition software written in C#<br></br>
-<strong>This project was crafted in one week (including hardware tuning...) and hasn't been active since then. Please use it at your own risk</strong>
+#<strong>This project was crafted in one week (including hardware tuning...) and hasn't been active since then. Please use it at your own risk</strong>
+
 Some notes:<br> </br>
 - 1) This software currently only implements the BWTEK Exemplar LS CCD spectrometer (low level APIs are provided by BWTEK Inc.), will soon support SOL 1.7 IR CCD spectrometer. In future, it may support Ocean Optics CCD spectrometer. <br> </br>
 - 2) It currently only supports mechanical delay stage from NewPort Inc. (I am not able to test other brands at the moment)<br></br> 
